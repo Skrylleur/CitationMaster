@@ -6,11 +6,11 @@ CitationMaster est une application web moderne permettant de gérer une base de 
 
 ## Aperçu
 
-![Aperçu 1 de l'application](public/images/Site_img1.png)
-![Aperçu 2 de l'application](public/images/Site_img2.png)
-![Aperçu 3 de l'application](public/images/Site_img3.png)
-![Aperçu 4 de l'application](public/images/Site_img4.png)
-![Aperçu 5 de l'application](public/images/Site_img5.png)
+![Aperçu 1 de l'application](public/Site_img1.png)
+![Aperçu 2 de l'application](public/Site_img2.png)
+![Aperçu 3 de l'application](public/Site_img3.png)
+![Aperçu 4 de l'application](public/Site_img4.png)
+![Aperçu 5 de l'application](public/Site_img5.png)
 
 ---
 
